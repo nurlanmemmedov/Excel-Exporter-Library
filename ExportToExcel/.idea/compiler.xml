@@ -7,8 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ExportToExcel" />
-        <module name="ExcelExporterLibrary" />
-        <module name="24-05-2021" />
       </profile>
     </annotationProcessing>
   </component>
