@@ -3,11 +3,8 @@ import annotations.Exportable;
 
 @Exportable("people")
 public class Person {
-    @ExportField("id")
     private long id;
-    @ExportField("name")
     private String name;
-    @ExportField("surname")
     private String surname;
     private String fatherName;
     private int age;

@@ -13,4 +13,17 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>2.8.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>ExcelExporterLibrary</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+
 </project>
